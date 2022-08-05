@@ -12,3 +12,33 @@ A list of selected resources, methods, and tools dedicated to Corporate Digital 
 
 _Please read the [contribution guidelines](contributing.md) before contributing. Please add a resource by raising a [pull request](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/pulls). We also seek for discussion and proposal of new ideas (including additional content sections) as [issues](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics/issues)._
 
+## Contents (tba)
+
+* [Principles](#principles)
+* [Digital and AI Ethics](#digital-and-ai-ethics)
+* [CDR International](#cdr-international)
+* [Research Groups and Labs](#research-groups-labs-and-communities)
+* [Credits](#credits)
+
+## Principles
+[Back to Top](#contents)
+
+## Digital and AI Ethics
+[Back to Top](#contents)
+
+## CDR International
+[Back to Top](#contents)
+
+## Research Groups, Labs, and Communities
+[Back to Top](#contents)
+
+
+## Credits
+[Back to Top](#contents)
+
+See contributors and committers (and many more).
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
