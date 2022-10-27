@@ -63,7 +63,21 @@ Journal of Business Research, Volume 122, 2021](https://www.sciencedirect.com/sc
 - [Mercedes-Benz](https://group.mercedes-benz.com/nachhaltigkeit/daten/ki-guidelines.html)
 - [IRM: IRM´s Digital Ethics Guidelines](https://enterpriseriskmag.com/irms-digital-ethics-guidelines/)
 - [HT Group: Digital Ethics Guidelines on AI](https://www.t.ht.hr/en/about-us/company-values/digital-ethics/digital-ethics-guidelines-on-artificial-intelligen)
-
+- [Deloitte: Corporate Digital Responsibility: Verantwortungsvolle Digitalisierung – Herausforderung und Chance für deutsche Unternehmen](https://www2.deloitte.com/de/de/pages/innovation/contents/corporate-digital-responsibility.html )
+- [corporatedigitalresponsibility.net](https://corporatedigitalresponsibility.net/cdr-manifesto)
+- [PwC: Corporate Digital Responsibility and Digital Ethics](https://www.pwc.de/en/sustainability/corporate-digital-responsibility-and-digital-ethics.html )
+- [BVDW: Bundesverband Digitale Wirtschaft](https://www.bvdw.org/fileadmin/bvdw/upload/publikationen/Digital_Responsibility/BVDW_Diskussionspapier_CDR_20200401.pdf)
+- [Accenture: Building Data and AI Ethics committees](https://www.accenture.com/_acnmedia/pdf-107/accenture-ai-and-data-ethics-committee-report-11.pdf´)
+- [ADP: Ethics in AI, Statement](https://www.adp.com/-/media/adp/redesign2018/pdf/data-privacy/ai-ethics-statement.pdf?rev=934d7063975f402889c4ed8610324c36&hash=9FA7B34280D71654740CC51D14F74E79)
+- [McKinsey](https://www.mckinsey.de/~/media/McKinsey/Business%20Functions/McKinsey%20Analytics/Our%20Insights/Leading%20your%20organization%20to%20responsible%20AI/Leading-your-organization-to-responsible-AI.pdf)
+- [BCG: AI Code of Conduct](https://media-publications.bcg.com/AI-Code-of-Conduct.pdf)
+- [KPMG: Ethical AI: Five guiding pillars](https://advisory.kpmg.us/articles/2019/ethical-ai.html#:~:text=KPMG%20has%20distilled%20the%20actions,while%20building%20and%20maintaining%20trust.) and [KPMG Inform Ethical AI](https://assets.kpmg/content/dam/kpmg/es/pdf/2020/01/Informe_Ethical-AI.pdf)
+- [EY: Warum der Technologiesektor Digitale Ethik braucht](https://www.ey.com/de_de/technology/warum-der-technologiesektor-digitale-ethik-braucht)
+- [Atos: Digital Vision: Ethics](https://atos.net/wp-content/uploads/2020/04/atos-digital-vision-ethics-opinion-paper.pdf)
+- [UNICEF: Policy guidance on AI for children](https://www.unicef.org/globalinsight/reports/policy-guidance-ai-children)
+- [Gesellschaft für Informatik (GI)](https://gi.de/ethicalguidelines/)
+- [SHEQ Management: A New Guide to Digital Ethics](https://sheqmanagement.com/a-new-guide-to-digital-ethics/)
+- [Netzwerk Datenschutzexpertise](https://www.netzwerk-datenschutzexpertise.de/sites/default/files/gut_2019_eu_ki_ethik.pdf )
 
 ## CDR International
 [Back to Top](#contents)
