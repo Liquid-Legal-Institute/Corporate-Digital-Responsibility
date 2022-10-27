@@ -29,15 +29,37 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Becker, S.J., Nemat, A.T., Lucas, S. et al. A Code of Digital Ethics: laying the foundation for digital ethics in a science and technology company. AI & Soc (2022)](https://doi.org/10.1007/s00146-021-01376-w)
 - [Jonathan Beever, Rudy McDaniel, Nancy A. Stanlick: Understanding Digital Ethics (2019))](https://doi.org/10.4324/9781315282138)
 - [Morley, J., Elhalal, A., Garcia, F. et al. Ethics as a Service: A Pragmatic Operationalisation of AI Ethics. Minds & Machines 31, 239–256 (2021). https://doi.org/10.1007/s11023-021-09563-w](https://link.springer.com/article/10.1007/s11023-021-09563-w)
+- [Elliott, K., Price, R., Shaw, P. et al. Towards an Equitable Digital Society: Artificial Intelligence (AI) and Corporate Digital Responsibility (CDR). Soc 58, 179–188 (2021). https://doi.org/10.1007/s12115-021-00594-8](https://link.springer.com/article/10.1007/s12115-021-00594-8)
+- [Data responsibility, corporate social responsibility, and corporate digital responsibility](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B7749EC986BFF98EF32D3192E8D4F9D7/S2632324922000025a.pdf/div-class-title-data-responsibility-corporate-social-responsibility-and-corporate-digital-responsibility-div.pdf)
+- [Lara Lobschat, Benjamin Mueller, Felix Eggers, Laura Brandimarte, Sarah Diefenbach, Mirja Kroschke, Jochen Wirtz, Corporate digital responsibility,
+Journal of Business Research, Volume 122, 2021](https://www.sciencedirect.com/science/article/pii/S0148296319305946)
+- [Corporate Digital Responsibility und ihre Integration in die Unternehmensführung](https://api.pageplace.de/preview/DT0400.9783800665631_A42962004/preview-9783800665631_A42962004.pdf#page=62)
+- [Corporate Digital Responsibility and the current Corporate Social Responsibility standard: An analysis of applicability](https://dl.gi.de/bitstream/handle/20.500.12116/38706/proceedings-06.pdf?sequence=1&isAllowed=y)
 
 ## Digital and AI Ethics
 [Back to Top](#contents)
+- []()
+- []()
+- []()
+- []()
+- []()
+
 
 ## CDR International
 [Back to Top](#contents)
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## Research Groups, Labs, and Communities
 [Back to Top](#contents)
+- []()
+- []()
+- []()
+- []()
+- []()
 
 
 ## Credits
