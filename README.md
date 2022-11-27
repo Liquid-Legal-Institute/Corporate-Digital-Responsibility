@@ -99,6 +99,7 @@ Journal of Business Research, Volume 122, 2021](https://www.sciencedirect.com/sc
 
 ## Research Groups, Labs, and Communities
 [Back to Top](#contents)
+- [Online-Magazin Corporate Digital Responsibility](https://corporate-digital-responsibility.de/)
 - [University of Oxford: Future of Humanity Institute](http://www.fhi.ox.ac.uk/ )
 - [University of Oxford: Internet Institute](https://www.oii.ox.ac.uk/ )
 - [NYU: AI Now Institute](https://ainowinstitute.org/)
