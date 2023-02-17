@@ -15,7 +15,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1FF5NN)
 
-## Contents (tba)
+## Contents
 
 * [Principles](#principles)
 * [Digital and AI Ethics](#digital-and-ai-ethics)
@@ -82,6 +82,7 @@ Journal of Business Research, Volume 122, 2021](https://www.sciencedirect.com/sc
 ## CDR International
 [Back to Top](#contents)
 - [The Ethical Norms for the New Generation Artificial Intelligence, China](https://ai-ethics-and-governance.institute/2021/09/27/the-ethical-norms-for-the-new-generation-artificial-intelligence-china/) and [《新一代人工智能伦理规范》发布](https://www.most.gov.cn/kjbgz/202109/t20210926_177063.html )
+- [Council of Europe: REVISED ZERO DRAFT [FRAMEWORK] CONVENTION ON ARTIFICIAL INTELLIGENCE, HUMAN RIGHTS, DEMOCRACY AND THE RULE OF LAW](https://rm.coe.int/cai-2023-01-revised-zero-draft-framework-convention-public/1680aa193f)
 - [European Commission: Ethics Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation.1.html) and [AI Ethics Guidelines](https://www.aepd.es/sites/default/files/2019-12/ai-ethics-guidelines.pdf)
 - [Australia´s Artificial Intelligence Ethics Framework](https://www.industry.gov.au/data-and-publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles)
 - [Leitlinien “Künstliche Intelligenz” für die Schweizerische Bundesverwaltung](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-81319.html) and [Link](https://www.sbfi.admin.ch/sbfi/de/home/bfi-politik/bfi-2021-2024/transversale-themen/digitalisierung-bfi/kuenstliche-intelligenz.html)
